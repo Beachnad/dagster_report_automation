@@ -1,0 +1,6 @@
+.idea
+.telemetry
+
+__pycache__/
+dagster_data/
+logs/
